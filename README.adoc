@@ -7,8 +7,10 @@ image::database.png[Database]
 == Hello Admin
 image::helloadmin.png[Hello Admin Page]
 
+
 == Hello User
 image::hellouser.png[Hello User Page]
-
+== Role admin
+image::admin.png[hello admin]
 == Greeting
 image::greeting.png[The secured greeting page]
